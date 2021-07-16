@@ -1,0 +1,21 @@
+Dicionário humano -> abcdef...
+
+Binário -> 01
+
+Numérico -> 0123456789
+
+Hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+# _ _ _ _ _ _
+
+0 = Ausência
+
+F = Máximo
+
+ R  G  B
+
+#00 00 00 
+
+#FF FF FF 
